@@ -114,3 +114,30 @@ No dynamic memory or database is used in this stage.
 - User system  
 - Borrow history  
 - Graphical interface  
+
+
+---------------------------------------------------------------------------
+
+## Task 2 - Implementation Notes
+
+### Book (final adjustments included)
+- Default constructor added  
+- Parameterized constructor added  
+- borrow / return / showDetails methods implemented  
+- getISBN / isAvailable methods implemented  
+
+### Library
+- Array of 5 books  
+- Initialization done in constructor  
+- findBook method implemented (search by ISBN)  
+
+### User
+- id and name attributes  
+- Default constructor  
+- Parameterized constructor  
+
+### main.cpp
+- ISBN input loop  
+- Book search via Library  
+- Borrow functionality  
+- Availability validation  
