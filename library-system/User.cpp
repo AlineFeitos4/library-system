@@ -12,25 +12,21 @@ User::User(string n) {
     name = n;
 }
 
-string User::getName() {
-    return name;
-}
-
 void User::borrowBook(Book* book) {
-    if (book != nullptr) {
-        if (book->isAvailable()) {
-            book->borrowBook();
-            cout << name << " borrowed the book.\n";
-        }
-        else {
-            cout << "Book not available.\n";
-        }
+
+    if (book && book->isAvailable()) {
+        book->borrowBook();
+        cout << "Book borrowed\n";
+    }
+    else {
+        cout << "Book not available\n";
     }
 }
 
 void User::returnBook(Book* book) {
-    if (book != nullptr) {
+
+    if (book) {
         book->returnBook();
-        cout << name << " returned the book.\n";
+        cout << "Book returned\n";
     }
 }

@@ -1,20 +1,31 @@
+// Book.cpp
+
 #include "Book.h"
 #include <iostream>
 
 using namespace std;
 
 Book::Book() {
-    isbn = "";
     title = "";
     author = "";
+    isbn = "";
     available = true;
+    dateAdd = "";
 }
 
-Book::Book(string i, string t, string a) {
-    isbn = i;
+Book::Book(string t, string a, string i, string d) {
     title = t;
     author = a;
+    isbn = i;
     available = true;
+    dateAdd = d;
+}
+
+void Book::setBookDetails(string t, string a, string i, string d) {
+    title = t;
+    author = a;
+    isbn = i;
+    dateAdd = d;
 }
 
 string Book::getISBN() {
@@ -39,5 +50,6 @@ void Book::displayInfo() {
     cout << "Title: " << title << endl;
     cout << "Author: " << author << endl;
     cout << "ISBN: " << isbn << endl;
-    cout << "Status: " << (available ? "Available" : "Unavailable") << endl;
+    cout << "Available: " << (available ? "true" : "false") << endl;
+    cout << "DateAdd: " << dateAdd << endl;
 }

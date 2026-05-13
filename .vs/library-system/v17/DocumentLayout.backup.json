@@ -7,28 +7,52 @@
       "RelativeMoniker": "D:0:0:{E4B4AAB6-11F3-4177-BF85-2CA2BD8BAD36}|library-system\\library-system.vcxproj|solutionrelative:library-system\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4B4AAB6-11F3-4177-BF85-2CA2BD8BAD36}|library-system\\library-system.vcxproj|D:\\library-system\\library-system\\library-system\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E4B4AAB6-11F3-4177-BF85-2CA2BD8BAD36}|library-system\\library-system.vcxproj|solutionrelative:library-system\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E4B4AAB6-11F3-4177-BF85-2CA2BD8BAD36}|library-system\\library-system.vcxproj|D:\\library-system\\library-system\\library-system\\Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4B4AAB6-11F3-4177-BF85-2CA2BD8BAD36}|library-system\\library-system.vcxproj|solutionrelative:library-system\\Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B4AAB6-11F3-4177-BF85-2CA2BD8BAD36}|library-system\\library-system.vcxproj|D:\\library-system\\library-system\\library-system\\Sort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4B4AAB6-11F3-4177-BF85-2CA2BD8BAD36}|library-system\\library-system.vcxproj|solutionrelative:library-system\\Sort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B4AAB6-11F3-4177-BF85-2CA2BD8BAD36}|library-system\\library-system.vcxproj|D:\\library-system\\library-system\\library-system\\EBook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4B4AAB6-11F3-4177-BF85-2CA2BD8BAD36}|library-system\\library-system.vcxproj|solutionrelative:library-system\\EBook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B4AAB6-11F3-4177-BF85-2CA2BD8BAD36}|library-system\\library-system.vcxproj|D:\\library-system\\library-system\\library-system\\EBook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4B4AAB6-11F3-4177-BF85-2CA2BD8BAD36}|library-system\\library-system.vcxproj|solutionrelative:library-system\\EBook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4B4AAB6-11F3-4177-BF85-2CA2BD8BAD36}|library-system\\library-system.vcxproj|D:\\library-system\\library-system\\library-system\\Book.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E4B4AAB6-11F3-4177-BF85-2CA2BD8BAD36}|library-system\\library-system.vcxproj|solutionrelative:library-system\\Book.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4B4AAB6-11F3-4177-BF85-2CA2BD8BAD36}|library-system\\library-system.vcxproj|D:\\library-system\\library-system\\library-system\\Library.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E4B4AAB6-11F3-4177-BF85-2CA2BD8BAD36}|library-system\\library-system.vcxproj|solutionrelative:library-system\\Library.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E4B4AAB6-11F3-4177-BF85-2CA2BD8BAD36}|library-system\\library-system.vcxproj|D:\\library-system\\library-system\\library-system\\HardcopyBook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4B4AAB6-11F3-4177-BF85-2CA2BD8BAD36}|library-system\\library-system.vcxproj|solutionrelative:library-system\\HardcopyBook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4B4AAB6-11F3-4177-BF85-2CA2BD8BAD36}|library-system\\library-system.vcxproj|D:\\library-system\\library-system\\library-system\\Library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E4B4AAB6-11F3-4177-BF85-2CA2BD8BAD36}|library-system\\library-system.vcxproj|solutionrelative:library-system\\Library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E4B4AAB6-11F3-4177-BF85-2CA2BD8BAD36}|library-system\\library-system.vcxproj|D:\\library-system\\library-system\\library-system\\HardcopyBook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4B4AAB6-11F3-4177-BF85-2CA2BD8BAD36}|library-system\\library-system.vcxproj|solutionrelative:library-system\\HardcopyBook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B4AAB6-11F3-4177-BF85-2CA2BD8BAD36}|library-system\\library-system.vcxproj|D:\\library-system\\library-system\\library-system\\Book.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4B4AAB6-11F3-4177-BF85-2CA2BD8BAD36}|library-system\\library-system.vcxproj|solutionrelative:library-system\\Book.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B4AAB6-11F3-4177-BF85-2CA2BD8BAD36}|library-system\\library-system.vcxproj|D:\\library-system\\library-system\\library-system\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4B4AAB6-11F3-4177-BF85-2CA2BD8BAD36}|library-system\\library-system.vcxproj|solutionrelative:library-system\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4B4AAB6-11F3-4177-BF85-2CA2BD8BAD36}|library-system\\library-system.vcxproj|D:\\library-system\\library-system\\library-system\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E4B4AAB6-11F3-4177-BF85-2CA2BD8BAD36}|library-system\\library-system.vcxproj|solutionrelative:library-system\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4B4AAB6-11F3-4177-BF85-2CA2BD8BAD36}|library-system\\library-system.vcxproj|D:\\library-system\\library-system\\library-system\\Book.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E4B4AAB6-11F3-4177-BF85-2CA2BD8BAD36}|library-system\\library-system.vcxproj|solutionrelative:library-system\\Book.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E4B4AAB6-11F3-4177-BF85-2CA2BD8BAD36}|library-system\\library-system.vcxproj|D:\\library-system\\library-system\\library-system\\Library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4B4AAB6-11F3-4177-BF85-2CA2BD8BAD36}|library-system\\library-system.vcxproj|solutionrelative:library-system\\Library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B4AAB6-11F3-4177-BF85-2CA2BD8BAD36}|library-system\\library-system.vcxproj|D:\\library-system\\library-system\\library-system\\Library.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4B4AAB6-11F3-4177-BF85-2CA2BD8BAD36}|library-system\\library-system.vcxproj|solutionrelative:library-system\\Library.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,50 +62,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 22,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "User.cpp",
-              "DocumentMoniker": "D:\\library-system\\library-system\\library-system\\User.cpp",
-              "RelativeDocumentMoniker": "library-system\\User.cpp",
-              "ToolTip": "D:\\library-system\\library-system\\library-system\\User.cpp",
-              "RelativeToolTip": "library-system\\User.cpp",
-              "ViewState": "AgIAAAIAAAAAAAAAAAA0wCMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-01T17:21:58.803Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Book.cpp",
-              "DocumentMoniker": "D:\\library-system\\library-system\\library-system\\Book.cpp",
-              "RelativeDocumentMoniker": "library-system\\Book.cpp",
-              "ToolTip": "D:\\library-system\\library-system\\library-system\\Book.cpp",
-              "RelativeToolTip": "library-system\\Book.cpp",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA0wBsAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-01T16:08:04.086Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Library.cpp",
-              "DocumentMoniker": "D:\\library-system\\library-system\\library-system\\Library.cpp",
-              "RelativeDocumentMoniker": "library-system\\Library.cpp",
-              "ToolTip": "D:\\library-system\\library-system\\library-system\\Library.cpp",
-              "RelativeToolTip": "library-system\\Library.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-01T17:19:27.756Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -124,20 +106,150 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "User.h",
-              "DocumentMoniker": "D:\\library-system\\library-system\\library-system\\User.h",
-              "RelativeDocumentMoniker": "library-system\\User.h",
-              "ToolTip": "D:\\library-system\\library-system\\library-system\\User.h",
-              "RelativeToolTip": "library-system\\User.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Sort.cpp",
+              "DocumentMoniker": "D:\\library-system\\library-system\\library-system\\Sort.cpp",
+              "RelativeDocumentMoniker": "library-system\\Sort.cpp",
+              "ToolTip": "D:\\library-system\\library-system\\library-system\\Sort.cpp",
+              "RelativeToolTip": "library-system\\Sort.cpp",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAmwFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-13T10:35:25.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sort.h",
+              "DocumentMoniker": "D:\\library-system\\library-system\\library-system\\Sort.h",
+              "RelativeDocumentMoniker": "library-system\\Sort.h",
+              "ToolTip": "D:\\library-system\\library-system\\library-system\\Sort.h",
+              "RelativeToolTip": "library-system\\Sort.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-01T17:21:37.436Z",
+              "WhenOpened": "2026-05-13T10:35:04.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book.cpp",
+              "DocumentMoniker": "D:\\library-system\\library-system\\library-system\\Book.cpp",
+              "RelativeDocumentMoniker": "library-system\\Book.cpp",
+              "ToolTip": "D:\\library-system\\library-system\\library-system\\Book.cpp",
+              "RelativeToolTip": "library-system\\Book.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-13T10:11:23.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.h",
+              "DocumentMoniker": "D:\\library-system\\library-system\\library-system\\Book.h",
+              "RelativeDocumentMoniker": "library-system\\Book.h",
+              "ToolTip": "D:\\library-system\\library-system\\library-system\\Book.h",
+              "RelativeToolTip": "library-system\\Book.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwB4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-13T10:11:09.245Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "EBook.cpp",
+              "DocumentMoniker": "D:\\library-system\\library-system\\library-system\\EBook.cpp",
+              "RelativeDocumentMoniker": "library-system\\EBook.cpp",
+              "ToolTip": "D:\\library-system\\library-system\\library-system\\EBook.cpp",
+              "RelativeToolTip": "library-system\\EBook.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-13T10:02:30.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EBook.h",
+              "DocumentMoniker": "D:\\library-system\\library-system\\library-system\\EBook.h",
+              "RelativeDocumentMoniker": "library-system\\EBook.h",
+              "ToolTip": "D:\\library-system\\library-system\\library-system\\EBook.h",
+              "RelativeToolTip": "library-system\\EBook.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-13T10:02:13.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HardcopyBook.cpp",
+              "DocumentMoniker": "D:\\library-system\\library-system\\library-system\\HardcopyBook.cpp",
+              "RelativeDocumentMoniker": "library-system\\HardcopyBook.cpp",
+              "ToolTip": "D:\\library-system\\library-system\\library-system\\HardcopyBook.cpp",
+              "RelativeToolTip": "library-system\\HardcopyBook.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-13T10:01:45.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HardcopyBook.h",
+              "DocumentMoniker": "D:\\library-system\\library-system\\library-system\\HardcopyBook.h",
+              "RelativeDocumentMoniker": "library-system\\HardcopyBook.h",
+              "ToolTip": "D:\\library-system\\library-system\\library-system\\HardcopyBook.h",
+              "RelativeToolTip": "library-system\\HardcopyBook.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-13T10:01:07.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cpp",
+              "DocumentMoniker": "D:\\library-system\\library-system\\library-system\\User.cpp",
+              "RelativeDocumentMoniker": "library-system\\User.cpp",
+              "ToolTip": "D:\\library-system\\library-system\\library-system\\User.cpp",
+              "RelativeToolTip": "library-system\\User.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-13T09:53:48.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Library.cpp",
+              "DocumentMoniker": "D:\\library-system\\library-system\\library-system\\Library.cpp",
+              "RelativeDocumentMoniker": "library-system\\Library.cpp",
+              "ToolTip": "D:\\library-system\\library-system\\library-system\\Library.cpp",
+              "RelativeToolTip": "library-system\\Library.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-13T09:51:53.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.h",
+              "DocumentMoniker": "D:\\library-system\\library-system\\library-system\\User.h",
+              "RelativeDocumentMoniker": "library-system\\User.h",
+              "ToolTip": "D:\\library-system\\library-system\\library-system\\User.h",
+              "RelativeToolTip": "library-system\\User.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-13T09:51:15.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Library.h",
               "DocumentMoniker": "D:\\library-system\\library-system\\library-system\\Library.h",
               "RelativeDocumentMoniker": "library-system\\Library.h",
@@ -145,20 +257,7 @@
               "RelativeToolTip": "library-system\\Library.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-01T17:19:53.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Book.h",
-              "DocumentMoniker": "D:\\library-system\\library-system\\library-system\\Book.h",
-              "RelativeDocumentMoniker": "library-system\\Book.h",
-              "ToolTip": "D:\\library-system\\library-system\\library-system\\Book.h",
-              "RelativeToolTip": "library-system\\Book.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-01T15:48:42.413Z",
+              "WhenOpened": "2026-05-13T09:50:26.29Z",
               "EditorCaption": ""
             },
             {
@@ -169,7 +268,7 @@
               "RelativeDocumentMoniker": "library-system\\main.cpp",
               "ToolTip": "D:\\library-system\\library-system\\library-system\\main.cpp",
               "RelativeToolTip": "library-system\\main.cpp",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA0wB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-01T15:47:19.526Z",
               "EditorCaption": ""

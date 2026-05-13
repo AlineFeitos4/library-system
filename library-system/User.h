@@ -13,8 +13,6 @@ public:
     User();
     User(string n);
 
-    string getName();
-
     void borrowBook(Book* book);
     void returnBook(Book* book);
 };
